@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/udesh/finalproject/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/udesh/finalproject/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/udesh/finalproject/app/src/main/res/drawable/input_seach.xml" value="0.1" />
+        <entry key="..\:/Users/udesh/finalproject/app/src/main/res/layout/activity_add_ads.xml" value="0.18" />
+        <entry key="..\:/Users/udesh/finalproject/app/src/main/res/layout/activity_addads.xml" value="0.21" />
+        <entry key="..\:/Users/udesh/finalproject/app/src/main/res/layout/activity_addadsdeveloper.xml" value="0.17844202898550723" />
+        <entry key="..\:/Users/udesh/finalproject/app/src/main/res/layout/activity_approve.xml" value="0.17844202898550723" />
+        <entry key="..\:/Users/udesh/finalproject/app/src/main/res/layout/activity_approvedetails.xml" value="0.17447916666666666" />
+        <entry key="..\:/Users/udesh/finalproject/app/src/main/res/layout/activity_approvedevolopers.xml" value="0.17844202898550723" />
+        <entry key="..\:/Users/udesh/finalproject/app/src/main/res/layout/activity_bridalviwe.xml" value="0.2384428223844282" />
+        <entry key="..\:/Users/udesh/finalproject/app/src/main/res/layout/activity_broomviwe.xml" value="0.17844202898550723" />
+        <entry key="..\:/Users/udesh/finalproject/app/src/main/res/layout/activity_decline.xml" value="0.16757246376811594" />
+        <entry key="..\:/Users/udesh/finalproject/app/src/main/res/layout/activity_declinegrid.xml" value="0.16757246376811594" />
+        <entry key="..\:/Users/udesh/finalproject/app/src/main/res/layout/activity_deletgrid.xml" value="0.16757246376811594" />
+        <entry key="..\:/Users/udesh/finalproject/app/src/main/res/layout/activity_detailsdevoloper.xml" value="0.17844202898550723" />
+        <entry key="..\:/Users/udesh/finalproject/app/src/main/res/layout/activity_detelsads.xml" value="0.17844202898550723" />
+        <entry key="..\:/Users/udesh/finalproject/app/src/main/res/layout/activity_devoloper.xml" value="0.2" />
+        <entry key="..\:/Users/udesh/finalproject/app/src/main/res/layout/activity_devoloper_option.xml" value="0.2" />
+        <entry key="..\:/Users/udesh/finalproject/app/src/main/res/layout/activity_devolopwerallads.xml" value="0.17844202898550723" />
+        <entry key="..\:/Users/udesh/finalproject/app/src/main/res/layout/activity_devolopwerpnding.xml" value="0.17844202898550723" />
+        <entry key="..\:/Users/udesh/finalproject/app/src/main/res/layout/activity_grideviwedevoloper.xml" value="0.1390625" />
+        <entry key="..\:/Users/udesh/finalproject/app/src/main/res/layout/activity_hotelviwe.xml" value="0.17844202898550723" />
+        <entry key="..\:/Users/udesh/finalproject/app/src/main/res/layout/activity_loginselect.xml" value="0.2" />
+        <entry key="..\:/Users/udesh/finalproject/app/src/main/res/layout/activity_main.xml" value="0.15896739130434784" />
+        <entry key="..\:/Users/udesh/finalproject/app/src/main/res/layout/activity_member.xml" value="0.1598731884057971" />
+        <entry key="..\:/Users/udesh/finalproject/app/src/main/res/layout/activity_memberdashboad.xml" value="0.25" />
+        <entry key="..\:/Users/udesh/finalproject/app/src/main/res/layout/activity_memberdeletads.xml" value="0.16145833333333334" />
+        <entry key="..\:/Users/udesh/finalproject/app/src/main/res/layout/activity_members.xml" value="0.16032608695652173" />
+        <entry key="..\:/Users/udesh/finalproject/app/src/main/res/layout/activity_myads.xml" value="0.15489130434782608" />
+        <entry key="..\:/Users/udesh/finalproject/app/src/main/res/layout/activity_myadsshows.xml" value="0.17844202898550723" />
+        <entry key="..\:/Users/udesh/finalproject/app/src/main/res/layout/activity_mymember.xml" value="0.18" />
+        <entry key="..\:/Users/udesh/finalproject/app/src/main/res/layout/activity_new_ads.xml" value="0.16032608695652173" />
+        <entry key="..\:/Users/udesh/finalproject/app/src/main/res/layout/activity_pending.xml" value="0.17844202898550723" />
+        <entry key="..\:/Users/udesh/finalproject/app/src/main/res/layout/activity_pendingdevolopergrid.xml" value="0.1693840579710145" />
+        <entry key="..\:/Users/udesh/finalproject/app/src/main/res/layout/activity_photoviwe.xml" value="0.17844202898550723" />
+        <entry key="..\:/Users/udesh/finalproject/app/src/main/res/layout/activity_poruviwe.xml" value="0.17844202898550723" />
+        <entry key="..\:/Users/udesh/finalproject/app/src/main/res/layout/activity_selectlogin.xml" value="1.0" />
+        <entry key="..\:/Users/udesh/finalproject/app/src/main/res/layout/activity_shopregister.xml" value="0.15489130434782608" />
+        <entry key="..\:/Users/udesh/finalproject/app/src/main/res/layout/activity_sign_up.xml" value="0.25" />
+        <entry key="..\:/Users/udesh/finalproject/app/src/main/res/layout/activity_visitors.xml" value="0.15489130434782608" />
+        <entry key="..\:/Users/udesh/finalproject/app/src/main/res/layout/activity_viwe_ads.xml" value="0.17844202898550723" />
+        <entry key="..\:/Users/udesh/finalproject/app/src/main/res/layout/activity_viwemyads.xml" value="0.17844202898550723" />
+        <entry key="..\:/Users/udesh/finalproject/app/src/main/res/layout/input_seach.xml" value="0.16032608695652173" />
+        <entry key="..\:/Users/udesh/finalproject/app/src/main/res/layout/product_item.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/udesh/finalproject/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.125" />
+        <entry key="..\:/Users/udesh/finalproject/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "819019492340",
+    "project_id": "merryme-e0397",
+    "storage_bucket": "merryme-e0397.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819019492340:android:43b0b9d8666b891d60a7a1",
+        "android_client_info": {
+          "package_name": "com.example.finalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819019492340-gl8nob1e4si49k865j5ac377e64sg59s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.finalproject",
+            "certificate_hash": "23baee85cab60ee52bce59b5dbb59f252650600e"
+          }
+        },
+        {
+          "client_id": "819019492340-5g738j4nipmslcauvon90lra54stiq9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOn_nzWmU62mhh0_Dq2Uum_XuqhDKfhTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819019492340-5g738j4nipmslcauvon90lra54stiq9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
